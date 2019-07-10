@@ -1,0 +1,48 @@
+
+.background{
+    background-color: white;
+}
+
+a{
+   color: black; 
+}
+
+.logo{
+    font-family: 'Lobster', cursive;
+    padding: 5px;
+    border: 5px;
+}
+
+.logo_1{
+    box-sizing: border-box;
+    float: left;
+    height: 75px;
+    width: 75px;
+}
+
+.header{
+    color: black;
+    padding: 30px;
+    text-align: center;
+    
+}
+
+.item{
+    padding: 20px;
+    text-align: left;
+    background-color: aliceblue;
+    border-block-start: solid 1px;
+}
+
+.socialMedia{
+    padding: 15px;
+    text-align: center;
+    border-block-start: solid 1px;
+}
+
+.copyright{
+    background-color: gainsboro;
+    text-align: center;
+    padding: 5px;
+}
+
